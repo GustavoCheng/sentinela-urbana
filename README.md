@@ -6,6 +6,8 @@ A plataforma reúne dados de sensores, bases públicas e relatos de moradores pa
 
 > Todos os dados são fictícios. Nenhum valor vem de sensor ou órgão real.
 
+**Protótipo publicado:** https://gustavocheng.github.io/sentinela-urbana/
+
 ## Integrantes
 
 | Nome completo | RM |
