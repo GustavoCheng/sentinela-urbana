@@ -10,9 +10,13 @@ A plataforma reúne dados de sensores, bases públicas e relatos de moradores pa
 
 ## Integrantes
 
+Turma: 3ECA
+
 | Nome completo | RM |
 | --- | --- |
-| A preencher | A preencher |
+| Agatha Cassari Benedicto | 556251 |
+| Gustavo Shinn Shyong Cheng | 559084 |
+| Sara Barbosa da Silva | 559042 |
 
 ## Como executar
 
