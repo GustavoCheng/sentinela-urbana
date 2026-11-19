@@ -8,6 +8,8 @@ A plataforma reúne dados de sensores, bases públicas e relatos de moradores pa
 
 **Protótipo publicado:** https://gustavocheng.github.io/sentinela-urbana/
 
+**Vídeo de demonstração:** https://youtu.be/VZkJ3DwFP4k
+
 ## Integrantes
 
 Turma: 3ECA
